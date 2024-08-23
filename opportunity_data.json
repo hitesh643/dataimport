@@ -1,0 +1,47 @@
+[
+    {
+        "Opportunity_Name": "Website Redesign",
+        "Close_Date": "2024-09-30",
+        "Stage": "Proposal/Price Quote",
+        "Amount": 5000,
+        "Account_Name": "Acme Corporation",
+        "Owner": "Rohan Sharma",
+        "Probability": 60
+    },
+    {
+        "Opportunity_Name": "Mobile App Development",
+        "Close_Date": "2024-10-15",
+        "Stage": "Negotiation/Review",
+        "Amount": 15000,
+        "Account_Name": "XYZ Pvt Ltd",
+        "Owner": "Anita Patel",
+        "Probability": 80
+    },
+    {
+        "Opportunity_Name": "CRM Implementation",
+        "Close_Date": "2024-11-20",
+        "Stage": "Closed Won",
+        "Amount": 25000,
+        "Account_Name": "Global Tech",
+        "Owner": "Priya Gupta",
+        "Probability": 100
+    },
+    {
+        "Opportunity_Name": "Digital Marketing Campaign",
+        "Close_Date": "2024-08-30",
+        "Stage": "Prospecting",
+        "Amount": 8000,
+        "Account_Name": "Innovate Solutions",
+        "Owner": "Raj Verma",
+        "Probability": 30
+    },
+    {
+        "Opportunity_Name": "Software Licensing",
+        "Close_Date": "2024-12-05",
+        "Stage": "Closed Lost",
+        "Amount": 12000,
+        "Account_Name": "Bright Ideas",
+        "Owner": "Neha Mehta",
+        "Probability": 0
+    }
+]
