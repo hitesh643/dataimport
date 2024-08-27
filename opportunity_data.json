@@ -1,47 +1,96 @@
-[
-    {
-        "Opportunity_Name": "Website Redesign",
-        "Close_Date": "2024-09-30",
-        "Stage": "Proposal/Price Quote",
-        "Amount": 5000,
-        "Account_Name": "Acme Corporation",
-        "Owner": "Rohan Sharma",
-        "Probability": 60
+```json
+{
+  "Page Number": 1,
+  "Section": "Methods",
+  "Form Type": "Business Credit Application",
+  "Business Information": {
+    "Business Legal Name": "GT MOLD + TOOL LLC",
+    "Main Contact": "Bill Stevens",
+    "Trade Name": "",
+    "Address": {
+      "Street": "2626 Shower St StelD3",
+      "City": "Pasadena",
+      "State": "TX",
+      "Zip": "77502"
     },
-    {
-        "Opportunity_Name": "Mobile App Development",
-        "Close_Date": "2024-10-15",
-        "Stage": "Negotiation/Review",
-        "Amount": 15000,
-        "Account_Name": "XYZ Pvt Ltd",
-        "Owner": "Anita Patel",
-        "Probability": 80
-    },
-    {
-        "Opportunity_Name": "CRM Implementation",
-        "Close_Date": "2024-11-20",
-        "Stage": "Closed Won",
-        "Amount": 25000,
-        "Account_Name": "Global Tech",
-        "Owner": "Priya Gupta",
-        "Probability": 100
-    },
-    {
-        "Opportunity_Name": "Digital Marketing Campaign",
-        "Close_Date": "2024-08-30",
-        "Stage": "Prospecting",
-        "Amount": 8000,
-        "Account_Name": "Innovate Solutions",
-        "Owner": "Raj Verma",
-        "Probability": 30
-    },
-    {
-        "Opportunity_Name": "Software Licensing",
-        "Close_Date": "2024-12-05",
-        "Stage": "Closed Lost",
-        "Amount": 12000,
-        "Account_Name": "Bright Ideas",
-        "Owner": "Neha Mehta",
-        "Probability": 0
+    "Email": "GTMT_QUOTES@Yahoo.com",
+    "Years in Business": "1.5",
+    "Tax ID": "9-21-9-2",
+    "Annual Revenue": "160K",
+    "Phone": "713-378-5277",
+    "Fax": "713-378-9277"
+  },
+  "Owner No. 1": {
+    "First Name": "William",
+    "Last Name": "Stevens",
+    "Title": "Owner",
+    "Home Zip": "77586",
+    "DOB": "11-22-1965",
+    "SSN": "",
+    "% Ownership": "75%",
+    "US Citizen": "Yes",
+    "Declared Bankruptcy": "N/A"
+  },
+  "Owner No. 2": {
+    "First Name": "Alejandro",
+    "Last Name": "Gomez",
+    "Title": "Owner",
+    "Home Zip": "18230",
+    "DOB": "04/12/1975",
+    "SSN": "",
+    "% Ownership": "25%",
+    "US Citizen": "Yes",
+    "Declared Bankruptcy": "N/A"
+  },
+  "Equipment Information": {
+    "Equipment Supplier": "Methods",
+    "Sales Rep": "Chleb Henderson",
+    "Manufacturer": "Methods",
+    "Model": "MV-1000L",
+    "Condition": "New"
+  },
+  "Finance Information": {
+    "Desired Term": "48 Months",
+    "Total Credit Requested": "140K",
+    "Total Down Payment/Trade": ""
+  },
+  "Business References": {
+    "Bank Name": "Chase Bank",
+    "Account Number": "0440",
+    "Phone": "832-386-240",
+    "Secured Debt": {
+      "Account Number": "",
+      "Contact": "",
+      "Phone": ""
     }
-]
+  },
+  "Signatures": [
+    {
+      "Name": "William Stevens",
+      "Date": "10/16/2022"
+    },
+    {
+      "Name": "Alejandro Gomez",
+      "Date": "10/16/2022"
+    }
+  ],
+  "ECOA Notice": {
+    "Contact Information": {
+      "Matt Sheehan": {
+        "Title": "Director of Financial Services",
+        "Phone": "978.639.9269",
+        "Email": "msheehan@methodsmachine.com"
+      },
+      "David Wiker": {
+        "Title": "Senior Credit Analyst",
+        "Phone": "978.639.9266",
+        "Email": "dwiker@methodsmachine.com"
+      }
+    },
+    "General Contact": {
+      "Phone": "877.668.4262",
+      "Website": "MethodsMachine.com"
+    }
+  }
+}
+```
